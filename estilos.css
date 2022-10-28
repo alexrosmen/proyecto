@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+h1 {
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: bold;
+ }
+h2 {
+    font: bold 14px sans-serif; 
+ }
+header, section, footer, aside, nav, article, hgroup {
+    border: 1px solid black;
+    display: block;
+ }
+body {
+    text-align: center;
+}
+.agrupar {
+    background: blanchedalmond;
+    width: 960px;
+    margin: 15px auto;
+}
+.header {
+    background: #decade;
+    padding: 20px;
+}
+.menu {
+    background: grey;
+    padding: 5px 15px;
+}
+.menu li {
+    list-style: none;
+}
+
